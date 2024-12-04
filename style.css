@@ -1,0 +1,21 @@
+ .cl1{
+    text-align: center;
+ }
+ div{
+    border: 5px solid orange;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 30%;
+ }
+ img{
+    
+   width: 100%;
+ }
+ h1{
+    font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+ }
